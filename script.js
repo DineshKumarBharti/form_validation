@@ -29,7 +29,7 @@ function hello()
     /* UserName validation End*/ 
 
     /* Email id Validation Start*/ 
-    function hello()
+    
     var email=document.myform.email.value;
     if(email== "")
     {
