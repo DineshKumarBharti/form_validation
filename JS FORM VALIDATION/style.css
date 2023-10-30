@@ -1,0 +1,17 @@
+h1{
+    color: #fff;
+    text-align: center;
+    background-color:#0f120f;
+}
+form{
+    width: 100%;
+    height: auto;
+    padding: 0px 10px;
+    text-align: center;
+    color: #fff;
+    background-color:#115625;
+    border-radius: 15px;
+}
+form input{
+    margin:  10px;
+}
